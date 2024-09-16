@@ -1,0 +1,14 @@
+#rebuild this file with 'dart run flutter_native_splash:create --path=native_splash.yaml' and kill/restart the app with run to see changes
+
+# dart run flutter_native_splash:create --flavor development ///to create in dev environment
+
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: '#10100F'
+  image: './assets/SkateboardOnly-Logo.png'
+  # branding: 
+
+  

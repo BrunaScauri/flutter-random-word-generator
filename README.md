@@ -1,17 +1,19 @@
-# learningdart
+# Random Word Generator
 
-A new Flutter project.
+Repo for Google Codelabs' "Your First Flutter Project'.
 
-## Getting Started
+## Practiced so far:
+- Setting up a Flutter environment;
+- Setting up Flutter real-time testing;
+- Widgets;
+- State management;
+- Componentization in Flutter;
+- 'Build' and 'Theme' methods;
+- UI styling;
+- Navigation rail/sidebar;
+- Stateless/Stateful widgets;
+- Sidebar's responsiveness;
 
-This project is a starting point for a Flutter application.
+## Tools
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-random-word-generator
+**Front-end:** Flutter, Dart
